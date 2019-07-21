@@ -19,3 +19,9 @@ python check.py XRPUSDT
 python check.py BTCUSDT
 python check.py XRPUSD
 ````
+
+### Results:
+
+<p align="center">
+<img src="3.png">
+</p>
